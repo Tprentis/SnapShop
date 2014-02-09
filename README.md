@@ -1,0 +1,4 @@
+SnapShop
+========
+
+SnapShop Rewards App
